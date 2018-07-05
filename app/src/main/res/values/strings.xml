@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseAnalyticsSample</string>
+    <string name="hope_type_key">hopeType</string>
+</resources>
